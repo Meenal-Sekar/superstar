@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Meenal-Sekar/react-quiz-app.git/static/css/main.d564d879.css",
+    "main.js": "/Meenal-Sekar/react-quiz-app.git/static/js/main.e5d5fd96.js",
+    "index.html": "/Meenal-Sekar/react-quiz-app.git/index.html",
+    "main.d564d879.css.map": "/Meenal-Sekar/react-quiz-app.git/static/css/main.d564d879.css.map",
+    "main.e5d5fd96.js.map": "/Meenal-Sekar/react-quiz-app.git/static/js/main.e5d5fd96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d564d879.css",
+    "static/js/main.e5d5fd96.js"
+  ]
+}
